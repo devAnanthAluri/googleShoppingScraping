@@ -14,11 +14,18 @@ This Python script allows you to scrape product information from Google Shopping
    ```bash
    git clone https://github.com/your-username/google-product-scraper.git
    
+2. Navigate to the project directory:
 
-cd google-product-scraper
+   ```bash
+   cd google-product-scraper
 
-pip install -r requirements.txt
-python gs.py
+3. Install the required packages:
+   ```bash
+   pip install -r requirements.txt
+   
+4. Install the required packages:
+   ``bash
+   python gs.py
 
 
 Feel free to customize the content as per your requirements. Make sure to include the appropriate license file (e.g., `LICENSE`) in your repository and update the link in the `README.md` file accordingly.
