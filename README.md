@@ -17,7 +17,7 @@ This Python script allows you to scrape product information from Google Shopping
 2. Navigate to the project directory:
 
    ```bash
-   cd google-product-scraper
+   cd googleShoppingScraping-main
 
 3. Install the required packages:
    ```bash
