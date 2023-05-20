@@ -5,7 +5,7 @@ This Python script allows you to scrape product information from Google Shopping
 ## Prerequisites
 
 - Python 3.7 or above
-- Packages listed in the `requirements.txt` file
+- Packages listed in the `requirements.txt`  file
 
 ## Installation
 
