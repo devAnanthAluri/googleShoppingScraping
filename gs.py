@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import json
 from configparser import ConfigParser
-from openpyxl import Workbook
+from openpyxl import  Workbook
 
 def xl(d,s):
     wb = Workbook()
